@@ -1,6 +1,6 @@
 <template>
   <FormLikeWrapper>
-    <article class="prose lg:prose-xl">
+    <article class="prose">
       <h1>Impressum</h1>
 
       <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>

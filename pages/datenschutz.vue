@@ -1,6 +1,6 @@
 <template>
   <FormLikeWrapper>
-    <article class="prose lg:prose-xl">
+    <article class="prose">
       <h1>Datenschutz&shy;erkl&auml;rung</h1>
       <h2>1. Datenschutz auf einen Blick</h2>
       <h3>Allgemeine Hinweise</h3>
