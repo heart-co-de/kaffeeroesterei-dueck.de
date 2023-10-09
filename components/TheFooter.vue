@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-white/50 backdrop-blur bottom-0 absolute inset-x-0">
+  <footer class="bg-white/50 backdrop-blur bottom-0 fixed inset-x-0">
     <div class="mx-auto max-w-7xl overflow-hidden px-6 py-2 sm:py-4 lg:px-8">
       <nav class="-mb-6 flex justify-center space-x-4" aria-label="Footer">
         <div v-for="item in navigation.main" :key="item.name" class="pb-6">
