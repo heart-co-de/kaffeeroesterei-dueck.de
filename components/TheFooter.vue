@@ -23,6 +23,7 @@ const navigation = {
     { name: "Bestellen", href: "/" },
     { name: "Impressum", href: "/impressum" },
     { name: "Datenschutz", href: "/datenschutz" },
+    { name: "AGB", href: "/agb" },
   ],
-};
+}
 </script>
